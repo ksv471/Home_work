@@ -30,7 +30,7 @@ public class HomeWorkApp {
 
     //Задание №4//
     public static void printColor() {
-        int value = 123;
+        int value = 122;
         if (value <= 0) {
             System.out.println("Красный");
         }
